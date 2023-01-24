@@ -13,7 +13,7 @@ Projeto desenvolvido durante a Semana do Programador do Zero ao Contratado do <a
 
 ## 🔗 Acesso
 
-Para acessar o projeto, basta <a href="!">clicar aqui </a>!
+Para acessar o projeto, basta <a href="https://projeto-wchampions-league.vercel.app/">clicar aqui </a>!
 
 ## 💻 Demo
 
